@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4e97dbb.css",
+    "main.js": "/static/js/main.fc9caeae.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/project-img2.png": "/static/media/project-img2.e0c1436a96be676694fe.png",
+    "static/media/project-img3.png": "/static/media/project-img3.b1b1f4b21b178612e134.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/header-img.png": "/static/media/header-img.dbfed20600b04593fe6e.png",
+    "static/media/banner-bg.png": "/static/media/banner-bg.bcaca85e1217e1995be4.png",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/logo.png": "/static/media/logo.b60df5e89419f7597e24.png",
+    "static/media/project-img1.png": "/static/media/project-img1.f97a715968261593e6b5.png",
+    "static/media/c-sharp.png": "/static/media/c-sharp.4a32f53d425c7ad4cb05.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/mySQL.png": "/static/media/mySQL.58b608caa28189639a9a.png",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/node.svg": "/static/media/node.f56aaa6f52ae4bbb79b188b5b4482941.svg",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/html.svg": "/static/media/html.7bc1faf1e728a79ff87af81c698b8cf4.svg",
+    "static/media/mongoDB.svg": "/static/media/mongoDB.569240602968090cb7cd3efd3f8d474a.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/index.html",
+    "static/media/css.svg": "/static/media/css.315b8fdb9dbf75ae965b80bf368895cd.svg",
+    "static/media/javascript-1.svg": "/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.f4e97dbb.css.map": "/static/css/main.f4e97dbb.css.map",
+    "main.fc9caeae.js.map": "/static/js/main.fc9caeae.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4e97dbb.css",
+    "static/js/main.fc9caeae.js"
+  ]
+}
